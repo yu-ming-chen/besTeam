@@ -1,0 +1,24 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "A basic demo bot to do Telegram payments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zi-hui/TelegramBot.git"
+  },
+  "author": "zi hui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zi-hui/TelegramBot/issues"
+  },
+  "homepage": "https://github.com/zi-hui/TelegramBot#readme",
+  "dependencies": {
+    "telegraf": "^3.35.0",
+    "telegraf-inline-menu": "^4.0.0",
+    "touch-cli": "0.0.1"
+  }
+}
